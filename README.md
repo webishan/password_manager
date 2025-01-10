@@ -18,3 +18,19 @@ To run the password manager locally, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/password-manager.git
+## Installation
+
+To run the password manager locally, follow these steps:
+
+1. Navigate into the project folder:
+   `cd password-manager`
+
+2. Install the required dependencies:
+   `npm install`
+
+3. Start the development server:
+   `npm start`
+
+The application should now be running on [http://localhost:3000](http://localhost:3000).
+
+
